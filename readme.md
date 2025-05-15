@@ -78,13 +78,7 @@ tictactoe-battle/
 
 
 ![tictactoe](.png)
-tictactoe.png
 
-You can add a screenshot here:
-
-```
-![Game Preview](link_to_screenshot.png)](link_to_screenshot.png)
-```
 
 ---
 
