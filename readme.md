@@ -78,7 +78,7 @@ tictactoe-battle/
 
 
 ![tictactoe](.png)
-
+tictactoe.png
 
 You can add a screenshot here:
 
