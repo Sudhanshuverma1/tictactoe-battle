@@ -76,6 +76,7 @@ tictactoe-battle/
 
 ### 📸 Screenshot
 
+tictactoe.png
 
 ![tictactoe](.png)
 
