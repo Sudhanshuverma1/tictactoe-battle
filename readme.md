@@ -4,7 +4,8 @@
 
 ### 🚀 Live Demo
 
-*Coming Soon...* (Optional: Add GitHub Pages or Vercel link)
+👉 [Click here to play the TicTacToe-Battle Game](https://sudhanshuverma1.github.io/tictactoe-battle/)
+
 
 ---
 
