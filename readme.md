@@ -1,7 +1,3 @@
-Great job on building the **TicTacToe Battle** project! Here's a professional and engaging `README.md` file you can use to explain your game and its features on GitHub:
-
----
-
 ## 🕹️ TicTacToe Battle
 
 **TicTacToe Battle** is a modern, responsive, and interactive single-player TicTacToe game built with **HTML**, **CSS**, and **JavaScript**. This game offers a clean UI and allows users to choose their player (X or O) before starting the match. The computer then competes using intelligent random moves.
@@ -70,15 +66,12 @@ tictactoe-battle/
 
 * **HTML5**
 * **CSS3**
-* **Vanilla JavaScript**
+* **JavaScript**
 
 ---
 
 ### 📸 Screenshot
-
-tictactoe.png
-
-![tictactoe](.png)
+<img src="tictactoe.png" width="800"/>
 
 
 ---
